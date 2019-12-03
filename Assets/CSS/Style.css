@@ -29,7 +29,6 @@
 }
 
     
-}
 .menu{
     overflow: hidden;
     grid-column: 3/4;
@@ -50,7 +49,6 @@ body{
     
 }
 
-}
 .button{
     width: 10%;
     background-color: black;
